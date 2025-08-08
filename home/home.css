@@ -20,6 +20,9 @@ nav ul {
     list-style: none;
     gap: 30px;
 }
+.you:hover{
+    color: green;
+}
 nav ul li a {
     color: rgb(255, 255, 255);
     text-decoration: none;
